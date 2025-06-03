@@ -4,7 +4,7 @@
 $host = 'localhost'; // データベースのホスト名
 $dbname = 'algorithm_practice_db'; // 作成したデータベース名
 $username = 'root'; // MySQLのユーザー名
-$password = 'kentaro0729'; // MySQLのパスワード (設定している場合は入力)
+$password = 'mysqlpw'; // MySQLのパスワード (設定している場合は入力)
 
 try {
     // MySQLデータベースに接続
