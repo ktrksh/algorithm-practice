@@ -1,7 +1,7 @@
 <?php
 
 // MySQLデータベースへの接続情報
-$host = 'localhost'; // データベースのホスト名
+$host = '127.0.0.1'; // データベースのホスト名
 $dbname = 'algorithm_practice_db'; // 作成したデータベース名
 $username = 'root'; // MySQLのユーザー名
 $password = 'mysqlpw'; // MySQLのパスワード (設定している場合は入力)

@@ -2,4 +2,3 @@
 packages/       # Atomのパッケージ関連フォルダ
 atom-runner-temp/ # atom-runnerが作成する可能性のある一時フォルダ (もしあれば)
 node_modules/   # JavaScriptの依存パッケージ
-connect_mysql.php
